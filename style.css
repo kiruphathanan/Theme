@@ -1,0 +1,20 @@
+button{
+    color: aqua;
+    background-color: black;
+}
+button:hover{
+    cursor: pointer;
+    background-color: burlywood;
+}
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+.dark{
+    background-color: black;
+    color: aliceblue;
+}
+.bright{
+    background-color: aliceblue;
+    color: black;
+}
